@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+<<<<<<< HEAD
+      "email": "jiten@gmail.com",
+      "password": "$2a$10$OA2AcWEStVja/xfHRq3S0el2fPJE77IkXo7bvanG0/bYs1YsFeJ7W",
+      "firstname": "Jitendra",
+      "lastname": "Tanwar",
+      "age": 23,
+      "id": 1
+    },
+    {
+      "email": "abhibari@gmail.com",
+      "password": "$2a$10$8j.gVXmnsNnGPY1M4Rkqy.Zy0HnJfzbtudDruj4HVvZX1HYb/UD5m",
+      "firstname": "abhi",
+      "lastname": "bari",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "email": "mahi.mbhide@gmail.com",
+      "password": "$2a$10$1U1zcoY5nkfgWzaoO99KzuuKSLh1qR0K7pV14FR87kB.lf59xIM5u",
+      "firstname": "Mahendra",
+      "lastname": "Singh",
+      "age": "25",
+      "id": 3
+    },
+    {
+      "email": "suraj@gmail.com",
+      "password": "$2a$10$qAk.4daqtwVaiExEvrhTxOkzXUFrQlFRo9ajJfWri1VtU0TAPDaMm",
+      "firstname": "suraj",
+      "lastname": "rathore",
+      "age": "23",
+      "id": 4
+    },
+    {
+      "email": "basant@gmail.com",
+      "password": "$2a$10$OdMkYihgqVVw/yEGcd3.XuIHKHCP/mHeuCyHvBoGd0oQ7c3nU6nfy",
+      "firstName": "Basant",
+      "lastName": "rajput",
+      "age": "23",
+      "id": 5
+=======
+      "email": "olivier@mail.com",
+      "password": "$2a$10$00SXvuMcVJjg4pm.nkYJi.r1cczpwICVhEFpl0YCPsB5O/f/Des/q",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "Yagnesh.modh@gmail.com",
+      "password": "$2a$10$OsyV0UB9c9nMHxXX8R6bcebM8ziMSys/jXvG8EyYyjCCMFWmbeuM2",
+      "firstName": "Yagnesh",
+      "lastName": "Modh",
+      "age": "33",
+      "id": 2
+    },
+    {
+      "email": "virat.kohli@gmail.com",
+      "password": "$2a$10$iWScr3S6303WdSNBIE8UH.zsWR6XgvFNVbEKvR.HpjoGYexqMTLw2",
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "age": "28",
+      "id": 3
+    },
+    {
+      "email": "yagnesh.modh@gmail.com",
+      "password": "$2a$10$7wqHzW1y9yMGYGz0ZnroAu6KAGX3sNvFc2BxDnG8AF1YN34Cricru",
+      "firstName": "Yagnesh",
+      "lastName": "Modh",
+      "age": "33",
+      "id": 4
+    },
+    {
+      "email": "mahi.mbhide@gmail.com",
+      "password": "$2a$10$VAI4LXoX/fq9BAxaptDMk.Nq9WQu7iXkZ7VXgzYV2qCgp.du3t4Ry",
+      "firstName": "Mahendra",
+      "lastName": "singh",
+      "age": "23",
+      "id": 5
+    },
+    {
+      "email": "yashrajgupta2424@gmail.com",
+      "password": "$2a$10$GHgxb1c8gW6oqcynHncK8eKR4sajQXregv/4y/DlCiI.JRcnHh7n.",
+      "firstName": "Om",
+      "lastName": "Sharma ",
+      "age": "25",
+      "id": 6
+>>>>>>> aceac507ff0a1817282f5b67984daa575e946082
+    }
+  ]
+}
